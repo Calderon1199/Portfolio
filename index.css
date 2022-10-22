@@ -452,7 +452,6 @@ body{
 		width: 70%;
 		height: 70%;
 		flex-direction: column;
-		height: auto;
 	}
 	.card-container{
 		justify-content: center;
