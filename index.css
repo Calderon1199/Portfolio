@@ -27,7 +27,7 @@
 	background-size: cover;
 	position: sticky;
 	box-sizing: border-box;
-	z-index: 9999;
+	z-index: 9998;
 }
 nav{
 	display: flex;
@@ -37,6 +37,7 @@ nav{
 	font-family: "Poppins", sans-serif;
 	z-index: 9999;
 	-webkit-backdrop-filter: blur(20px);
+	backdrop-filter: blur(20px);
 
 }
 .logo a{
