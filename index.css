@@ -36,7 +36,7 @@ nav{
 	min-height: 8vh;
 	font-family: "Poppins", sans-serif;
 	z-index: 9999;
-	backdrop-filter: blur(20px);
+	-webkit-backdrop-filter: blur(20px);
 
 }
 .logo a{
