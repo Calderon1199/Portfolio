@@ -460,10 +460,12 @@ body{
 		justify-content: center;
 	}
 	.work img{
-		width: auto;
+		width: 100%;
+		height: auto;
 	}
 	.work video{
-		width: auto;
+		width: 100%;
+		height: auto;
 	}
 	.layer h3{
 		color: #fff;
