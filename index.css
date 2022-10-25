@@ -27,7 +27,7 @@
 	background-size: cover;
 	position: sticky;
 	box-sizing: border-box;
-	z-index: 9998;
+	z-index: 999;
 }
 nav{
 	display: flex;
