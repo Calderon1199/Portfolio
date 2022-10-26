@@ -454,8 +454,8 @@ body{
 		border-radius: 10px;
 	}
 	.portfolio{
-		padding-left: 0;
-		padding-right: 0;
+		padding-left: 10%;
+		padding-right: 10%;
 	}
 	.card-container{
 		justify-content: center;
