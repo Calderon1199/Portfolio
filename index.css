@@ -378,11 +378,13 @@ body{
 	box-shadow: 20px 20px 15px black;
 }
 .work img{
+	border-radius: 10px;
 	display: block;
 	width:  500px;
 	transition: transform 0.7s;
 }
 .work video{
+	border-radius: 10px;
 	display: block;
 	width:  500px;
 	transition: transform 0.7s;
