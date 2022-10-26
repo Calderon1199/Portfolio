@@ -381,12 +381,14 @@ body{
 	border-radius: 10px;
 	display: block;
 	width:  500px;
+	height: auto;
 	transition: transform 0.7s;
 }
 .work video{
 	border-radius: 10px;
 	display: block;
 	width:  500px;
+	height: auto;
 	transition: transform 0.7s;
 }
 .layer{
@@ -450,7 +452,6 @@ body{
 		margin-left: auto;
   		margin-right: auto;
 		width: 70%;
-		height: auto;
 		flex-direction: column;
 	}
 	.card-container{
