@@ -381,12 +381,14 @@ body{
 	border-radius: 10px;
 	display: block;
 	width:  500px;
+	overflow: hidden;
 	transition: transform 0.7s;
 }
 .work video{
 	border-radius: 10px;
 	display: block;
 	width:  500px;
+	overflow: hidden;
 	transition: transform 0.7s;
 }
 .layer{
