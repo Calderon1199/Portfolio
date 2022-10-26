@@ -25,14 +25,13 @@
 	background-image: url("./assets/images/background.jpg");
 	background-position: center;
 	background-size: cover;
-	position: sticky;
 	box-sizing: border-box;
-	z-index: 999;
 }
 nav{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+	position: sticky;
 	min-height: 8vh;
 	font-family: "Poppins", sans-serif;
 	z-index: 9999;
