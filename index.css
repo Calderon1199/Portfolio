@@ -449,6 +449,7 @@ body{
 		display:flex;
 		width: 70%;
 		flex-direction: column;
+		border-radius: 10px;
 	}
 	.portfolio{
 		padding-left: 0;
