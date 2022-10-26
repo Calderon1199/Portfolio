@@ -450,6 +450,10 @@ body{
 		width: 70%;
 		flex-direction: column;
 	}
+	.portfolio{
+		padding-left: 0;
+		padding-right: 0;
+	}
 	.card-container{
 		justify-content: center;
 	}
