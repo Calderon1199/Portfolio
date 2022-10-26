@@ -432,9 +432,11 @@ body{
 }
 .work:hover img{
 	transform: scale(1.1);
+	border-radius: 10px;
 }
 .work:hover video{
 	transform: scale(1.1);
+	border-radius: 10px;
 }
 .work:hover .layer{
 	height: 100%;
